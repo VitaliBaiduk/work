@@ -114,3 +114,26 @@ body {
   background-color: #4d4d4d;
   color: #ffffff;
 }
+.SEC {
+  background-color: #f6f6f6;
+}
+.services1 {
+  margin: 0 auto;
+  margin-top: 75px;
+  width: 940px;
+  height: 350px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.services0_inner {
+  width: 240px;
+  margin: 0 auto;
+  text-align: center;
+}
+.services1__inner {
+  width: 150px;
+  height: 100px;
+  text-align: center;
+  margin-left: 81px;
+  margin-right: 81px;
+}
